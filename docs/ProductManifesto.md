@@ -75,3 +75,9 @@ Automation should reduce operational complexity, never increase it.
 ## 7. Every Feature Must Generate Value
 
 Every feature must help organizations make faster, safer or smarter decisions.
+
+## 8. Intelligence From Day One
+
+ENQI should deliver value from the very first interaction.
+
+The platform must understand the organization's context and provide an intelligent starting point instead of requiring manual configuration from scratch.
