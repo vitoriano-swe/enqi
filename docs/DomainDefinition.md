@@ -349,7 +349,9 @@ Users may belong to one or multiple Departments and participate in one or more W
 
 Every action performed by a User is auditable.
 
-Users never receive permissions directly.
+Users primarily receive permissions through Roles.
+
+Controlled explicit or temporary grants may be used for specific business needs, always respecting organizational boundaries, governance policies and audit requirements.
 
 Access is granted through organizational Roles.
 
